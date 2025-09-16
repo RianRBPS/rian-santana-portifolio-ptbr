@@ -36,7 +36,7 @@
 - Lançamento de produto próprio para **remoção de distrações no YouTube**.  
 - Desenvolvimento de backend simples para **persistência e gerenciamento de preferências do usuário**.  
 - Experiência em **ciclo completo de produto**, da ideia ao lançamento público.  
-- Link do Repositório: https://chromewebstore.google.com/detail/clearyt-focus-mode-for-yo/bnojijbipdggnapbihipoggjncdagpid?pli=1
+- Link do Produto: https://chromewebstore.google.com/detail/clearyt-focus-mode-for-yo/bnojijbipdggnapbihipoggjncdagpid?pli=1
 
 ---
 
@@ -83,6 +83,7 @@
 - Link do Website: https://www.america-west.com/
 
 ---
+
 ### **NossoLarr – Automação Multilíngue para Construção Civil**  
 *Node.js, Google Translate API, Telegram API*  
 - Backend de **tradução automática em tempo real** (Português, Espanhol, Inglês, Mandarim e Russo).  
