@@ -14,11 +14,13 @@
 
 ---
 
-### **ProSchedule Manager** – Full-Stack Engineer  
+### **ProSchedule Manager (EUA)** – Full-Stack Engineer  
 *React, Node.js, Express, PostgreSQL*  
-- Construção de **backend em Node/Express** para agendamento e gestão de tarefas.  
-- Criação de endpoints REST e integrações com banco de dados **PostgreSQL**.  
+- Projeto desenvolvido para uma **startup americana**, com foco em agendamento e gestão de tarefas.  
+- Construção de **backend em Node/Express** e integrações com banco de dados **PostgreSQL**.  
+- Criação de endpoints REST e estrutura para escalabilidade.  
 - Implementação de **frontend em React** integrado ao backend, garantindo ciclo completo da aplicação.  
+- Experiência prática em **colaboração internacional e entrega remota**.  
 
 ---
 
