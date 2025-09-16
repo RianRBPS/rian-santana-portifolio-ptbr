@@ -25,7 +25,7 @@
 ---
 
 ### **Craiglist Job Applier** – Automation & AI Integration  
-*Node.js, Playwright, Telegram API, OpenAI API*  
+*Python, Playwright, Telegram API, OpenAI API*  
 - Sistema de **web scraping de vagas** no Craigslist, com entrega automática via **Telegram Bot**.  
 - Backend de automação que **adapta currículos usando a API do ChatGPT** e aplica em vagas de forma automática.  
 - Demonstra **integração de APIs, processamento de dados e automação backend**.  
